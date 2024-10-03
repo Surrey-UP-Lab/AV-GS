@@ -20,7 +20,7 @@
 @article{bhosale2024avgs,
   title={AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis},
   author={Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Jiangkang Deng, Xiatian Zhu},
-  journal={arXiv preprint arXiv:2406.08920},
+  journal={Advances in Neural Information Processing Systems},
   year={2024}
 }
 
